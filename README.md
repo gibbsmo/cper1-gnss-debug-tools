@@ -21,3 +21,5 @@ Create an independent piece of software which can read GNSS serial feeds.  This 
 IN A WAY THAT:
 - GNSS failures are human readable
 - GNSS failures are timestamped and formatted in a manner for easy external correlation 
+
+![image](https://github.com/user-attachments/assets/fb77e99b-946e-4f92-b524-c02a419062fd)
